@@ -10,7 +10,7 @@ sample.txt,sample2.txt,sample3.txt --> is input file for above program which con
 For Example:
    Input Graph i.e.. Adjacency Matrix Will be Given As
    Ex:
- 	[0    3         Infnity  7       ]
+ 	[0    3         Infnity  7       ]                                                                                                                 
  	[8    0         2        Infinity]
  	[5    Infinity  0        1       ]
  	[2    Infinity  Infinity 0       ]
