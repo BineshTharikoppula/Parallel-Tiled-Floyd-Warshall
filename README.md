@@ -8,12 +8,12 @@ Hai Guys..
 sample.txt,sample2.txt,sample3.txt --> is input file for above program which contains graph.
 
 For Example:
-   Input Graph i.e.. Adjacency Matrix Will be Given As
+   Input Graph i.e.. Adjacency Matrix Will be Given As                                                                                                        
    Ex:
  	[0    3         Infnity  7       ]                                                                                                                 
- 	[8    0         2        Infinity]
- 	[5    Infinity  0        1       ]
- 	[2    Infinity  Infinity 0       ]
+ 	[8    0         2        Infinity]                                                                                                          
+ 	[5    Infinity  0        1       ]                                                                                        
+ 	[2    Infinity  Infinity 0       ]                                                                                                              
 
   This Matrix Will be Given Input from txt file As
   Like This..
