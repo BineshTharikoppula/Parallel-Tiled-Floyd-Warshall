@@ -9,25 +9,25 @@ sample.txt,sample2.txt,sample3.txt --> is input file for above program which con
 
 For Example:
    Input Graph i.e.. Adjacency Matrix Will be Given As                                                                                                        
-   Ex:
- 	[0    3         Infnity  7       ]                                                                                                                 
- 	[8    0         2        Infinity]                                                                                                          
- 	[5    Infinity  0        1       ]                                                                                        
- 	[2    Infinity  Infinity 0       ]                                                                                                              
+   Ex:                                                                                                                                     
+ 	  [0    3         Infnity  7       ]                                                                                                                 
+          [8    0         2        Infinity]                                                                                                          
+ 	  [5    Infinity  0        1       ]                                                                                        
+ 	  [2    Infinity  Infinity 0       ]                                                                                                              
 
   This Matrix Will be Given Input from txt file As
   Like This..
 
-  c no-of-vertices no-of-edges 
-	p sp 4 7
-	c from to edge-weight 
-	a 1 2 3
-	a 2 1 8
-	a 2 3 2
-	a 3 1 5
-	a 3 4 1
-	a 4 1 2
-	a 1 4 7 
+        c no-of-vertices no-of-edges                                                         				 
+	p sp 4 7													
+	c from to edge-weight                                                                                                     
+	a 1 2 3                                                                                                                   
+	a 2 1 8                                                                                                                   
+	a 2 3 2                                                                                                                        
+	a 3 1 5                                                                                                                          
+	a 3 4 1       														            
+	a 4 1 2                                                                                                                      
+	a 1 4 7                                                                                                                     
 
  Explanation:
    
